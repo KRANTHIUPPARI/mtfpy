@@ -14,7 +14,11 @@
         },
         "maths": {
             "q1": {
+<<<<<<< HEAD
                 "question": "this is from feature branch",
+=======
+                "question": "this is from master?",
+>>>>>>> origin/master
                 "options": [
                     "10",
                     "11",
