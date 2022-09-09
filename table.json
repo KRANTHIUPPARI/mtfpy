@@ -14,7 +14,6 @@
         },
         "maths": {
             "q1": {
-                "question": "this is from master?",
                 "question": "this is from feature branch",
                 "options": [
                     "10",
